@@ -4,7 +4,7 @@
   "container": {
     "type": "DOCKER",
     "docker": {
-      "image": "tb2186/cd-demo-app:latest"
+      "image": "tb2186/cicd-demo:latest"
     },
     "portMappings": [
       {
